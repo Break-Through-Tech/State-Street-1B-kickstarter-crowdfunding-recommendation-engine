@@ -10,11 +10,10 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Taylor Nguyen    | @taylornguyen | Data exploration, visualization, overall project coordination            |
-| Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
-| Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| James Lu         | @jameslu06    | Data exploration, visualization, overall project coordination            |
+| Yero Barry       | @yourhandle   | Python development, AI/ML, prompt engineering, and team communication    |
+| Faaliha Mohamed  | @yourhandle   | Data analysis, web development, documentation, and team collaboration    |
+| Menwe Okafor     | @yourhandle   | Python development, AI model development, and data analysis              |
 
 ---
 
