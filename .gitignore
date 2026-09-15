@@ -1,1 +1,25 @@
+# Derived data — regenerate by running notebooks 02 and 03.
+# The raw dataset zip IS committed (4.4 MB) so the pipeline is reproducible
+# from a fresh clone without a Kaggle login.
+data/*.parquet
+data/*.csv
+!data/.gitkeep
 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
