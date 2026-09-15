@@ -1,7 +1,0 @@
-,successful,failed,ratio
-goal,3000.0,5000.0,0.6
-duration_days,30.96,35.0,0.88
-levels,8.0,7.0,1.14
-min_tier,5.0,5.0,1.0
-max_tier,1000.0,1000.0,1.0
-updates,5.0,0.0,inf
